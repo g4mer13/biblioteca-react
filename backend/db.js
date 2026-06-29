@@ -3,7 +3,7 @@ import mysql from "mysql2";
 const conexao = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "bD#12",
+    password: "senha",
     database: "biblioteca"
 });
 
